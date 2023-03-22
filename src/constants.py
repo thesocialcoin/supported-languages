@@ -1,5 +1,5 @@
 SUPPORTED_LANGUAGES = {
-    "ar": {
+    "ara": {
         "name:en": "Arabic",
         "webhooks": {
             "age-profiler": True,
@@ -9,7 +9,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "bn": {
+    "ben": {
         "name:en": "Bengali",
         "webhooks": {
             "age-profiler": True,
@@ -19,7 +19,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "ca": {
+    "cat": {
         "name:en": "Catalan",
         "webhooks": {
             "age-profiler": True,
@@ -29,7 +29,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "de": {
+    "deu": {
         "name:en": "German",
         "webhooks": {
             "age-profiler": True,
@@ -39,7 +39,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "en": {
+    "eng": {
         "name:en": "English",
         "webhooks": {
             "age-profiler": True,
@@ -49,7 +49,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "es": {
+    "spa": {
         "name:en": "Spanish",
         "webhooks": {
             "age-profiler": True,
@@ -59,7 +59,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "fr": {
+    "fra": {
         "name:en": "French",
         "webhooks": {
             "age-profiler": True,
@@ -69,7 +69,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "hi": {
+    "hin": {
         "name:en": "Hindi",
         "webhooks": {
             "age-profiler": True,
@@ -79,7 +79,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "id": {
+    "ind": {
         "name:en": "Indonesian",
         "webhooks": {
             "age-profiler": True,
@@ -89,7 +89,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "it": {
+    "ita": {
         "name:en": "Italian",
         "webhooks": {
             "age-profiler": True,
@@ -99,7 +99,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "ja": {
+    "jpn": {
         "name:en": "Japanese",
         "webhooks": {
             "age-profiler": True,
@@ -109,7 +109,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "ko": {
+    "kor": {
         "name:en": "Korean",
         "webhooks": {
             "age-profiler": True,
@@ -119,7 +119,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "mn": {
+    "mon": {
         "name:en": "Mongolian",
         "webhooks": {
             "age-profiler": True,
@@ -129,7 +129,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "ne": {
+    "nep": {
         "name:en": "Nepali",
         "webhooks": {
             "age-profiler": True,
@@ -139,7 +139,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "pt": {
+    "por": {
         "name:en": "Portuguese",
         "webhooks": {
             "age-profiler": True,
@@ -149,7 +149,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "ru": {
+    "rus": {
         "name:en": "Russian",
         "webhooks": {
             "age-profiler": True,
@@ -159,7 +159,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "sw": {
+    "swa": {
         "name:en": "Swahili",
         "webhooks": {
             "age-profiler": True,
@@ -169,7 +169,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "th": {
+    "tha": {
         "name:en": "Thai",
         "webhooks": {
             "age-profiler": True,
@@ -179,7 +179,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "tl": {
+    "tgl": {
         "name:en": "Tagalog",
         "webhooks": {
             "age-profiler": True,
@@ -189,7 +189,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "uk": {
+    "ukr": {
         "name:en": "Ukranian",
         "webhooks": {
             "age-profiler": True,
@@ -199,7 +199,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "ur": {
+    "urd": {
         "name:en": "Urdu",
         "webhooks": {
             "age-profiler": True,
@@ -209,7 +209,7 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "zh": {
+    "zho": {
         "name:en": "Chinese (Simplified & Traditional)",
         "webhooks": {
             "age-profiler": True,
@@ -221,6 +221,7 @@ SUPPORTED_LANGUAGES = {
     }
 }
 
+# This information was fetched from https://restcountries.com/v3.1/independent?status=true&fields=name,cca2,languages
 COUNTRIES = {
     "ad": {
         "name:en": "Andorra",
