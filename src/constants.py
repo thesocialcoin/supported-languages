@@ -221,22 +221,31 @@ SUPPORTED_LANGUAGES = {
     }
 }
 
-AVAILABLE_COUNTRIES = {
+COUNTRIES = {
     "ad": {
         "name:en": "Andorra",
-        "official_languages": []
+        "official_languages": [
+            "ca"
+        ]
     },
     "ae": {
         "name:en": "United Arab Emirates",
-        "official_languages": []
+        "official_languages": [
+            "ar"
+        ]
     },
     "af": {
         "name:en": "Afghanistan",
-        "official_languages": []
+        "official_languages": [
+            "fa",
+            "ps"
+        ]
     },
     "ag": {
         "name:en": "Antigua and Barbuda",
-        "official_languages": []
+        "official_languages": [
+            "en"
+        ]
     },
     "ai": {
         "name:en": "Anguilla",
@@ -244,11 +253,15 @@ AVAILABLE_COUNTRIES = {
     },
     "al": {
         "name:en": "Albania",
-        "official_languages": []
+        "official_languages": [
+            "sq"
+        ]
     },
     "am": {
         "name:en": "Armenia",
-        "official_languages": []
+        "official_languages": [
+            "hy"
+        ]
     },
     "an": {
         "name:en": "Netherlands Antilles",
@@ -256,7 +269,9 @@ AVAILABLE_COUNTRIES = {
     },
     "ao": {
         "name:en": "Angola",
-        "official_languages": []
+        "official_languages": [
+            "pt"
+        ]
     },
     "aq": {
         "name:en": "Antarctica",
