@@ -10,4 +10,4 @@ The country [codes](https://restcountries.com/v3.1/independent?status=true&field
 
 ### Languages
 
-The language [codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) follows the [ISO 639-3](https://www.iso.org/standard/39534.html) international standard and they are formatted as an Alpha-3 code.
+The language [codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) follows the [ISO 639-1](https://www.iso.org/standard/39534.html) international standard and they are formatted as an Alpha-2 code.
