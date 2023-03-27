@@ -1,4 +1,4 @@
-# supported-languages
+# supported_languages
 
 This library helps all Citibeats projects to centralize the supported languages and the available countries.
 
