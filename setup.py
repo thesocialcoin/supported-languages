@@ -1,14 +1,12 @@
 from setuptools import setup
 
-from utils import __version__
-
 setup(
-    name='supported_languages',
-    version=__version__,
+    name="supported_languages",
+    version="v1.0.0",
 
-    url='https://github.com/thesocialcoin/supported_languages',
-    author='Oscar Delgado',
-    author_email='odelgado@citibeats.com',
+    url="https://github.com/thesocialcoin/supported_languages",
+    author="Oscar Delgado",
+    author_email="odelgado@citibeats.com",
 
-    py_modules=['countries', 'languages']
+    py_modules=["countries", "languages"]
 )
