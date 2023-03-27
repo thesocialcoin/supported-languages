@@ -10,5 +10,5 @@ setup(
     author='Oscar Delgado',
     author_email='odelgado@citibeats.com',
 
-    py_modules=['src.countries', 'src.languages'],
+    py_modules=['src'],
 )
