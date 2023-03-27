@@ -1,4 +1,4 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 from src import __version__
 
@@ -10,5 +10,5 @@ setup(
     author='Oscar Delgado',
     author_email='odelgado@citibeats.com',
 
-    py_modules=['src'],
+    py_modules=find_packages()
 )
