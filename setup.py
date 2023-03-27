@@ -1,6 +1,6 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
-from src import __version__
+from utils import __version__
 
 setup(
     name='supported_languages',
@@ -10,5 +10,5 @@ setup(
     author='Oscar Delgado',
     author_email='odelgado@citibeats.com',
 
-    py_modules=find_packages()
+    py_modules=['countries', 'languages']
 )
