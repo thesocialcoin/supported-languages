@@ -70,6 +70,21 @@ def get_languages(country_code: str) -> List[str]:
     """
 ```
 
+- `get_supported_languages`
+
+```python
+def get_supported_languages(country_code: str) -> List[str]:
+    """
+    Get supported languages from a country.
+
+    Args:
+        country_code (str): Country code in ISO 3166 alpha-2 format
+
+    Returns:
+        List[str]: List of supported languages in ISO 639-1 alpha-2 format
+    """
+```
+
 ### `supported_languages.languages`
 
 - `get_supported_languages`
