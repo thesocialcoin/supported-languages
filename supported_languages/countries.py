@@ -1,7 +1,7 @@
 from typing import Dict, List
 
-from utils.constants import COUNTRIES
-from languages.languages import get_supported_languages
+from supported_languages.constants import COUNTRIES
+from supported_languages.languages import get_supported_languages
 
 
 def get_available_countries() -> List[str]:

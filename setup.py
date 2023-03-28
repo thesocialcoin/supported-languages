@@ -8,5 +8,5 @@ setup(
     author="Oscar Delgado",
     author_email="odelgado@citibeats.com",
 
-    py_modules=["countries", "languages"]
+    py_modules=["supported_languages"]
 )

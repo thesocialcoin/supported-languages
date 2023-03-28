@@ -1,6 +1,6 @@
 from typing import Dict, List
 
-from utils.constants import SUPPORTED_LANGUAGES
+from supported_languages.constants import SUPPORTED_LANGUAGES
 
 
 def get_supported_languages() -> List[str]:
