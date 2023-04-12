@@ -2,7 +2,7 @@
 name = "supported-languages"
 version = "0.1.0"
 description = ""
-authors = ["Óscar Delgado <odelgado@citibeats.com>"]
+authors = ["Oscar Delgado <odelgado@citibeats.com>"]
 readme = "README.md"
 packages = [{include = "supported_languages"}]
 
