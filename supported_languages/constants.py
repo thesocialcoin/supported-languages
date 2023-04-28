@@ -209,8 +209,18 @@ SUPPORTED_LANGUAGES = {
             "google_translate": True
         }
     },
-    "zh": {
-        "name:en": "Chinese",
+    "zh-CN": {
+        "name:en": "Simplified Chinese",
+        "webhooks": {
+            "age-profiler": True,
+            "CitiFit": True,
+            "intent-classifier": True,
+            "user-profiler": True,
+            "google_translate": True
+        }
+    },
+    "zh-TW": {
+        "name:en": "Traditional Chinese",
         "webhooks": {
             "age-profiler": True,
             "CitiFit": True,
@@ -492,7 +502,8 @@ COUNTRIES = {
     "cn": {
         "name:en": "China",
         "languages": [
-            "zh",
+            "zh-CN",
+            "zh-TW",
             "en",
             "pt",
             "mn",
@@ -1154,7 +1165,8 @@ COUNTRIES = {
         "languages": [
             "en",
             "ms",
-            "ta"
+            "ta",
+            "zh-CN"
         ]
     },
     "mz": {
@@ -1415,7 +1427,7 @@ COUNTRIES = {
             "en",
             "ms",
             "ta",
-            "zh"
+            "zh-CN"
         ]
     },
     "si": {
@@ -1605,7 +1617,7 @@ COUNTRIES = {
         "languages": [
             "en",
             "es",
-            "zh"
+            "zh-CN"
         ]
     },
     "uy": {
