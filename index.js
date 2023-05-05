@@ -1,3 +1,1 @@
-const { getAvailableCountries } = require('supported_languages');
-
-module.exports = { getAvailableCountries };
+export { getAvailableCountries } from './supported_languages/countries.js';
