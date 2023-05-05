@@ -1,0 +1,232 @@
+{
+    "ar": {
+        "name:en": "Arabic",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "bn": {
+        "name:en": "Bengali",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "ca": {
+        "name:en": "Catalan",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "de": {
+        "name:en": "German",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "en": {
+        "name:en": "English",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "es": {
+        "name:en": "Spanish",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "fr": {
+        "name:en": "French",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "hi": {
+        "name:en": "Hindi",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "id": {
+        "name:en": "Indonesian",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "it": {
+        "name:en": "Italian",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "ja": {
+        "name:en": "Japanese",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "ko": {
+        "name:en": "Korean",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "mn": {
+        "name:en": "Mongolian",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "ne": {
+        "name:en": "Nepali",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "pt": {
+        "name:en": "Portuguese",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "ru": {
+        "name:en": "Russian",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "sw": {
+        "name:en": "Swahili",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "th": {
+        "name:en": "Thai",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "tl": {
+        "name:en": "Tagalog",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "uk": {
+        "name:en": "Ukranian",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "ur": {
+        "name:en": "Urdu",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "zh-CN": {
+        "name:en": "Simplified Chinese",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    },
+    "zh-TW": {
+        "name:en": "Traditional Chinese",
+        "webhooks": {
+            "age-profiler": true,
+            "CitiFit": true,
+            "intent-classifier": true,
+            "user-profiler": true,
+            "google_translate": true
+        }
+    }
+}

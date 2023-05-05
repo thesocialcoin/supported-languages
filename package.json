@@ -1,0 +1,20 @@
+{
+  "name": "supported-languages",
+  "version": "1.0.0",
+  "description": "This library helps all Citibeats projects to centralize the supported languages and the available countries.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thesocialcoin/supported-languages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thesocialcoin/supported-languages/issues"
+  },
+  "homepage": "https://github.com/thesocialcoin/supported-languages#readme"
+}
