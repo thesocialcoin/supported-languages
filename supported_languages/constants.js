@@ -1,4 +1,4 @@
-import fs from 'fs';
+var fs = require('fs');
 
 export const SUPPORTED_LANGUAGES = JSON.parse(fs.readFileSync('./supported_languages/supported_languages.json', 'utf8'));
 
