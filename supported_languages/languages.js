@@ -13,8 +13,3 @@ import { SUPPORTED_LANGUAGES } from "./constants.js";
  export function getLanguage(languageCode) {
     return SUPPORTED_LANGUAGES[languageCode] || {}
 }
-
-
-console.log(getSupportedLanguages())
-console.log(getLanguages())
-console.log(getLanguage("es"))
