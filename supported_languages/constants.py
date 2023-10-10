@@ -1312,6 +1312,12 @@ COUNTRIES = {
             "yi"
         ]
     },
+    "ps": {
+        "name:en": "State of Palestine",
+        "languages": [
+            "ar"
+        ]
+    },
     "pt": {
         "name:en": "Portugal",
         "languages": [
