@@ -7,6 +7,7 @@ This library helps all Citibeats projects to centralize the supported languages 
 ### Countries
 
 The country [codes](https://restcountries.com/v3.1/independent?status=true&fields=name,cca2,languages) follows the [ISO 3166](https://www.iso.org/iso-3166-country-codes.html) international standard and they are formatted as an Alpha-2 code.
+For countries not in [codes](https://restcountries.com/v3.1/independent?status=true&fields=name,cca2,languages) list, check them out on [wikipedia](https://en.wikipedia.org/wiki/List_of_official_languages_by_country_and_territory).
 
 ### Languages
 
