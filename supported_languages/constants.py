@@ -1315,7 +1315,9 @@ COUNTRIES = {
     "ps": {
         "name:en": "State of Palestine",
         "languages": [
-            "ar"
+            "ar",
+            "en",
+            "he"
         ]
     },
     "pt": {
