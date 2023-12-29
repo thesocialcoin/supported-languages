@@ -166,7 +166,8 @@ SUPPORTED_LANGUAGES = {
             "CitiFit": True,
             "intent-classifier": True,
             "user-profiler": True,
-            "google_translate": True
+            "google_translate": True,
+            "twitter": False,
         }
     },
     "th": {
